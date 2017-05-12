@@ -1,0 +1,35 @@
+.carousel{
+  margin-top: -20px;
+}
+.row{
+  height: 649px;
+  margin-top: -20px;
+  margin-right: 0px;
+  background-image: url('star.jpg');
+  color:bisque;
+}
+
+#ho1 {
+  margin-top:30;
+}
+
+.z1 {
+  color:red;
+}
+
+#home {
+  background-image: url('star.jpg');
+}
+
+#sith {
+  background-image: url(sith.jpg);
+}
+
+#history {
+  background-image: url(history.jpg);
+}
+
+#korriban {
+  background-image: url(korriban.jpg);
+  color:floralwhite;
+}
